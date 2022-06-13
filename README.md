@@ -1,2 +1,2 @@
 # django
-my project space
+my project 
